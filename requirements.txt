@@ -1,0 +1,1 @@
+kwork @ https://github.com/kesha1225/pykwork/archive/master.zip#sha256=d75d955516f727ede6d5c96247b71b71eb090f89f14fea49a808285c7b199071
